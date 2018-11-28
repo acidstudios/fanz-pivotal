@@ -5,9 +5,7 @@ module.exports = (Franz) => {
         if(elements[0]) {
             count = parseInt(elements[0].innerHTML);
         }
-
         Franz.setBadge(count);
     }
-
     Franz.loop(getMessages);
 }
