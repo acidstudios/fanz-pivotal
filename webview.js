@@ -4,7 +4,6 @@ module.exports = (Franz) => {
         let count = 0;
         if(elements[0]) {
             count = parseInt(elements[0].innerHTML);
-            console.log(count);
         }
 
         Franz.setBadge(count);
