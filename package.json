@@ -4,9 +4,9 @@
     "version": "1.0.0",
     "description": "Pivotal Tracker",
     "main": "index.js",
-    "author": "Gustavo Barrientos <gustavo.barrienots@aacidstudios.me>",
+    "author": "Gustavo Barrientos <gustavo.barrientos@aacidstudios.me>",
     "license": "MIT",
-    "repository": "https://github.com/meetfranz/recipe-pivotal",
+    "repository": "https://github.com/acidstudios/franz-pivotal",
     "config": {
       "serviceURL": "https://www.pivotaltracker.com/signin"
     }
